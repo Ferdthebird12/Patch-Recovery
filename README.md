@@ -18,9 +18,10 @@ This CI service patches recovery images of Samsung to enable Fastbootd. Based on
 ODIN AP Slot: Recovery.tar.md5
 ODIN User Slot: vbmeta_disabled_r.tar
 ```
+Trigger runner fix
 
 # Important note
-- Make sure that the uploaded file can downloaded with wget command and will download a correct file. Nextcloud with public link works fine if you open the link on web and copy the url from the download button.
+- Make sure that the uploaded file can downloaded with wget command and will download a correct file. Nextcloud with public link works fine  if you open the link on web and copy the url from the download button.
 
 # Credits
 - [Phhusson](https://github.com/phhusson) Without his script nothing would be possible at the first place
